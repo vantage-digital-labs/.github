@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://vantage-digital.online/logo.png" alt="Vantage Digital Labs" width="120">
+</p>
+
 # Vantage Digital Labs
 
 Enterprise AI infrastructure for game studios.
