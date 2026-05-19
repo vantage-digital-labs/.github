@@ -31,4 +31,5 @@ We build production-grade tools that give game developers access to cognitive NP
 - Website: [vantage-digital.online](https://vantage-digital.online)
 - Documentation: [vantage-digital.online/resources/documentation](https://vantage-digital.online/resources/documentation)
 - API Reference: [vantage-digital.online/resources/api-reference](https://vantage-digital.online/resources/api-reference)
+- Discord Community: [discord.gg/fNB4UB93](https://discord.gg/fNB4UB93)
 - Contact: store@vantage-digital.online
