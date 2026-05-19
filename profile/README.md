@@ -14,7 +14,7 @@ We build production-grade tools that give game developers access to cognitive NP
 
 | Repository | Description | Version |
 |------------|-------------|---------|
-| [core-sdk](https://github.com/vantage-digital-labs/core-sdk) | Node.js / Browser SDK | ![npm](https://img.shields.io/npm/v/@vantage-labs/core-sdk) |
+| [core-sdk](https://github.com/vantage-digital-labs/core-sdk) | Node.js / Browser SDK | ![version](https://img.shields.io/badge/version-2.4.1-blue) |
 | [unity-sdk](https://github.com/vantage-digital-labs/unity-sdk) | Unity 2021.3+ Package | ![version](https://img.shields.io/badge/version-2.4.0-blue) |
 | [unreal-plugin](https://github.com/vantage-digital-labs/unreal-plugin) | Unreal Engine 5.2+ Plugin | ![version](https://img.shields.io/badge/version-2.4.0-blue) |
 
